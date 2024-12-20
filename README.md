@@ -87,7 +87,3 @@ Project-Statistic/
 ## **Licencja**
 
 Ten projekt jest dostępny na licencji MIT. Szczegóły w pliku `LICENSE`.
-
----
-
-Możesz umieścić powyższy opis w pliku `README.md` w swoim repozytorium GitHuba! Jeśli chcesz, mogę pomóc Ci go poprawić lub rozbudować. 😊
