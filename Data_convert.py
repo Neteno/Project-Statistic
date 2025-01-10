@@ -2,7 +2,7 @@ import pandas as pd
 
 def wybierz_kolumny():
     # Pobierz nazwę pliku CSV od użytkownika
-    plik = "Dane.csv"
+    plik = "NVIDIA.csv"
     try:
         # Wczytaj plik CSV do DataFrame
         df = pd.read_csv(plik)
